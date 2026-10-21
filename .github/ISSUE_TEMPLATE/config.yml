@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "💬 Questions & Discussions"
+    url: "https://github.com/orgs/Armzi-Studio/discussions"
+    about: "Ask questions, share ideas, or discuss best practices with the community."
+  - name: "🛡️ Security Vulnerability"
+    url: "https://github.com/Armzi-Studio/.github/blob/main/.github/SECURITY.md"
+    about: "Please report security vulnerabilities confidentially according to our security policy."
+  - name: "🌐 Armzi Studio Website"
+    url: "https://armz.store"
+    about: "Visit our homepage and project updates."
